@@ -2,8 +2,8 @@ package main
 
 import "path"
 
-env:  string
-host: string
+env:  "environment"
+host: "host"
 
 // urlPath is agnostic of environment
 urlPath: "/path/to/asset"
